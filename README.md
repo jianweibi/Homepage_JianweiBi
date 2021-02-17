@@ -1,8 +1,12 @@
+Project Name: Jianwei's Homepage
+
 Author: Jianwei Bi
 
 Class Link: https://johnguerra.co/classes/webDevelopment_spring_2021/
 
 Project Objective: Create a private homepage
+
+Link to the demo video: https://www.youtube.com/watch?v=d4ONitHJut0&feature=youtu.be
 
 Instructions to build:
 
@@ -13,4 +17,5 @@ Instructions to build:
 3. Open the index.html with any broswer youn like. 
 
 4. Ready to use. 
+
 
